@@ -1,0 +1,3 @@
+void primeAlert() {}
+
+void restDoneAlert() {}
